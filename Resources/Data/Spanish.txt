@@ -1,0 +1,120 @@
+Food Fight
+Guerra De Comida
+Campaign
+Campaña
+Multiplayer
+En Liña
+Options
+Opciones
+How To Play
+Como Jugar
+Profiles
+Perfiles
+Credits
+Creditos
+Exit
+Salir
+Fruit
+Fruta
+Meat
+Carne
+Eggs
+Huevos
+Wheat
+Trigo
+Butter
+Mantequilla
+Milk
+Leche
+Toast
+Pan Tostado
+Sunny Side Up Egg
+Huevo
+Scrambled Eggs
+French Toast
+Tostada Francesa
+Huevos Revueltos
+Sausage
+Salchicha
+Ham
+Jamon
+Pancake
+Panquecas
+Waffle
+Gofre
+Blueberry Muffin
+Magdalena de Arandano
+Grapefruit
+Toronja
+Banana
+Cambur
+Strawberries
+Fresas
+Level
+Nivel
+Back
+Retrasar
+Accept
+Aceptar
+Decline
+Declinar
+Cancel
+Cancelar
+Wait
+Esperar
+Waiting...
+Esperando...
+Challenge IP:
+Desafie:
+Challenge from
+Desafio desde
+Attack
+Ataque
+Attack Speed
+Ritmo de Ataque
+Defense
+Defensa
+Evade
+Evade
+Speed
+Velocidad
+Paused
+Pausado
+Resume
+Resumir
+Music Volume
+Volumen de Musica
+EffectVolume
+Volumen de Effectos
+Voice Volume
+Volumen de Voces
+User Interface Volume
+Volumen de Interfaz
+Not connected to a network!
+No esta connectado!
+You Win!
+Ganaste!
+You Lose...
+Perdiste...
+Profile Name
+Nombre de Perfil
+True
+Si
+False
+No
+Key Bindings
+Asignamiento de Tecla
+Left
+Izquierda
+Right
+Derecha
+Language
+Lenguaje
+Cook for 
+Cocine por 
+ seconds.
+ segundos.
+May take 
+Puede tener 
+ spices.
+ especias.

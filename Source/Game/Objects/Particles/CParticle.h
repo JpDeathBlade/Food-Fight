@@ -1,0 +1,15 @@
+//////////////////////////////////////////////////////
+// File: "CParticle.h"
+// Creator: AB
+// Creation Date: 9/15/09
+// Last Modified: --
+// Last Modified By: --
+//////////////////////////////////////////////////////
+#ifndef CPARTICLE_H_
+#define CPARTICLE_H_
+
+class CParticle
+{
+};
+
+#endif 
